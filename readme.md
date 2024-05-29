@@ -14,3 +14,5 @@ I worked on implementing more methods into my code since I didn't have any and I
 (5/29/24) (later):
 At home I worked on it again and I added a method to make it move out of the way after being hit by a bulllet. I also made it move away in a random direction when it hit a wall. I committed these changes as "Final Draft 2.0" and I like where my robot is now and I really like my strategy so I will submit it. 
 
+(this is also included in the Readme file of my repository but just in case it was supposed to be in my main readme I wanted to add it here)
+
